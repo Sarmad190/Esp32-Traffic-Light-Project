@@ -35,7 +35,7 @@ Hardware Required
 | Yellow LED    | 1 | Caution light |
 | Green LED     | 1 | Go light |
 | Push Button   | 1 | Pedestrian request |
-| 220Ω Resistor | 3 | Current limiting for LEDs |
+| 20Ω Resistor | 3 | Current limiting for LEDs |
 | Breadboard + Jumper Wires | - | For connections |
 
 
